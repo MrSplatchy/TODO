@@ -12,6 +12,25 @@ An URL Shortener with API and Frontend (currently working on this)
 - [x] Build the Website
 - [x] "Wrap" it in Docker
 
+
+___
+### Note-Taking App
+Simple Markdown formating with possibility of uploading .md file
+
+**Tech Stack**:
+- **Fullstack**: Next.js
+- **Database**: PostgreSQL
+
+**TODO**:
+- [ ] Set up PostgreSQL
+- [ ] Build the API
+- [ ] Build the website
+- [ ] Add Markdown preview
+- [ ] Add grammar checker
+- [ ] "Wrap" it in Docker
+
+**Info**:
+- Prisma as ORM
 ___
 ### Personal Blog + Blog Maker
 A personal page for well... blogs and a text editor to make the blogs
@@ -28,13 +47,7 @@ A compiler For a *VERY* basic programming language
 - LLVM Integration
 - ¯\_(ツ)_/¯
 
-___
-### Note-Taking App
-Simple Markdown formating with possibility of uploading .md file
 
-**Tech Stack**:
-- NextJS
-- PostGres
 
 ___
 ### Custom Radio Listener
